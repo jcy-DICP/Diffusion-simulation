@@ -10,7 +10,7 @@ This code is developed using **Python 3.12**.
 
 ### Install
 
-Install dependencies
+Install dependencies using the following command:
 
 ```shell
 pip install -r requirements.txt
